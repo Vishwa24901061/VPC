@@ -71,8 +71,8 @@ To study the steps involved in setting up a private cloud using **AWS** or **Mic
 ---
 
 ## OUTPUT
+<img width="586" height="787" alt="Screenshot 2025-10-25 113159" src="https://github.com/user-attachments/assets/19a07a8c-8a48-4c81-a491-d6b369d62721" />
 
-<img width="1898" height="1044" alt="Screenshot 2025-11-02 124615" src="https://github.com/user-attachments/assets/22c1d2dd-af5d-4792-b207-6ad7df3ca5c9" />
 
 
 
